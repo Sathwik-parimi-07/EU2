@@ -8,6 +8,7 @@ const MEMBERS = [
     { name: "Snehitha", role: "Secretary(Jt.)", initials: "SN", color: "#5dd5ed" },
     { name: "Raisy", role: "Treasurer", initials: "RA", color: "#D97706" },
     { name: "Prasanth", role: "Prayer Secretary", initials: "PR", color: "#DC2626" },
+    { name: "Rishitha", role: "Literature Secretary", initials: "RI", color: "#825e5e" },
     { name: "Karunya Keerthi", role: "Mission& Outreach Secretary", initials: "KK", color: "#7C3AED" },
 ];
 
